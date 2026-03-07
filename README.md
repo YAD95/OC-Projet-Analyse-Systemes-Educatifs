@@ -127,8 +127,8 @@ jupyter lab
 
 # 📂 Contenu du repository
 
-notebook.ipynb → analyse complète des données
-presentation.pptx → présentation du projet
+education_data_analysis.ipynb → analyse complète des données
+project_presentation.pptx → présentation du projet
 pyproject.toml → environnement reproductible
 
 ---
