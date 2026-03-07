@@ -135,5 +135,5 @@ pyproject.toml → environnement reproductible
 
 # 👨‍💻 Auteur
 
-YAD (Y)ILMAZ (A)lican (D)aniel
+YAD95
 Projet OpenClassrooms – Analyse des données des systèmes éducatifs
