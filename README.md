@@ -109,21 +109,6 @@ Les dépendances du projet sont définies dans le fichier `pyproject.toml`.
 
 ---
 
-# ▶️ Reproduire le projet
-
-Cloner le repository :
-
-git clone https://github.com/YAD95/OC-Projet-Analyse-Systemes-Educatifs.git
-
-Installer l'environnement :
-
-uv sync
-
-Lancer Jupyter :
-
-jupyter lab
-
----
 
 # 📂 Contenu du repository
 
