@@ -1,3 +1,4 @@
+🇫🇷 Français | [🇬🇧 English](README.en.md)
 # 📊 Analyse des données des systèmes éducatifs
 
 Projet réalisé dans le cadre de la formation **Data Engineer - OpenClassrooms**.
