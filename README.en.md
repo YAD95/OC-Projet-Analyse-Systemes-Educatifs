@@ -1,3 +1,4 @@
+🇬🇧 English | readme en français 👉 [🇫🇷 Français](README.md) 
 # 📊 Education Systems Data Analysis
 
 Project carried out as part of the **Data Engineer training – OpenClassrooms**.
